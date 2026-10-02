@@ -1,2 +1,5 @@
-This is about the testing part of the Git.
+
+This is about the testing part of the Git. 
 It also needs to be saved into a new file.
+This is also the added information on this file which is" I need more practice in the git"
+
